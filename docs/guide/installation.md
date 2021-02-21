@@ -40,6 +40,8 @@ During installation you may see a lot of messages like the one in the image belo
 
 :::
 
+MISSING INFORMATION, where do you do the CONFIGS?!?!?!?
+
 ### Making it a service
 
 To make sure room-assistant always runs on your machine you can create a system service for it. Create the file `/etc/systemd/system/room-assistant.service` similar to the following example:
